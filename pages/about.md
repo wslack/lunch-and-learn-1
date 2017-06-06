@@ -12,3 +12,7 @@ GSA provides great workplaces by constructing, managing, and preserving governme
 ### Mission and Vision
 
 The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
+
+### New Section on Acqusitions
+
+This section describes acqusitions.
